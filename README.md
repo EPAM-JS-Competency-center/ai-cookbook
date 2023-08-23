@@ -9,12 +9,12 @@ Inside, you'll find a carefully curated collection of AI-driven solutions that s
 - Engage in the learning of Generative AI Tools by giving an opportunity to contribute
 
 ## Recently added/updated 🆕 ✨
-- Setup ChatGPT Visual Studio Code Extension
-- Optimizing E2E Testing with ChatGPT 
+- [Setup ChatGPT Visual Studio Code Extension](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/tools%20and%20setup/setup-chatgpt-visual-studio-code-extension.md)
+- [Optimizing E2E Testing with ChatGPT](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/testing/optimizing-e2e-testing-with-chatgpt.md)  
 
 
 ## Guides & examples
 - Tools and setup 
-    - Setup ChatGPT Visual Studio Code Extension
+    - [Setup ChatGPT Visual Studio Code Extension](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/tools%20and%20setup/setup-chatgpt-visual-studio-code-extension.md)
 - Testing
-    - Optimizing E2E Testing with ChatGPT  
+    - [Optimizing E2E Testing with ChatGPT](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/testing/optimizing-e2e-testing-with-chatgpt.md) 
