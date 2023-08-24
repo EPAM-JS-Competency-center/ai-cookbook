@@ -9,5 +9,5 @@ In this exciting video, we delve into the incredible benefits of integrating Cha
 
 - 🛠️ Real-World Examples: Witness real-world coding scenarios where the ChatGPT Extension comes to the rescue. From suggesting the most efficient sorting algorithm to brainstorming catchy variable names, you'll see firsthand how this tool can elevate your coding game.
 
-##Video:
-[![Watch the video](https://github.com/EPAM-JS-Competency-center/ai-cookbook/tree/main/cookbook/assets/previews/setup-chatgpt-visual-studio-code-extension.png)](https://youtu.be/NBh6-7-4r0s?si=uklX7m5nIzQQu6RR)
+## Video:
+[Setup ChatGPT Visual Studio Code Extension. AI Cookbook #1](https://youtu.be/NBh6-7-4r0s?si=hagBRoJNDn57_MVq)
