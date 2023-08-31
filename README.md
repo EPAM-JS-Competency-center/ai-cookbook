@@ -8,6 +8,12 @@ Inside, you'll find a carefully curated collection of AI-driven solutions that s
 - Promote EPAM Generative AI JS expertise in external and internal sources
 - Engage in the learning of Generative AI Tools by giving an opportunity to contribute
 
+## Contribution
+- Fork the repo
+- Use [the template](cookbook/contribution-example/contribution-example.md)
+- Add a link to your contribution into that main `README.md`
+- Open a PR
+
 ## Recently added/updated 🆕 ✨
 - [Setup ChatGPT Visual Studio Code Extension](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/tools%20and%20setup/setup-chatgpt-visual-studio-code-extension.md) (08/24/2023)
 - [Optimizing E2E Testing with ChatGPT](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/testing/optimizing-e2e-testing-with-chatgpt.md) (08/24/2023)
