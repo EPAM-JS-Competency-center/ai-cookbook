@@ -8,6 +8,12 @@ Inside, you'll find a carefully curated collection of AI-driven solutions that s
 - Promote EPAM Generative AI JS expertise in external and internal sources
 - Engage in the learning of Generative AI Tools by giving an opportunity to contribute
 
+## Contribution
+- Fork the repo
+- Use [the template](cookbook/contribution-example/contribution-example.md)
+- Add a link to your contribution into that main `README.md`
+- Open a PR
+
 ## Recently added/updated 🆕 ✨
 - [Mastering Easy File Operations with ChatGPT's Expert Assistance](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/cli-commands/simple-file-operations.md) (09/22/2023)
 
