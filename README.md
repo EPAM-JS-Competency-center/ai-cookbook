@@ -26,5 +26,11 @@ Inside, you'll find a carefully curated collection of AI-driven solutions that s
     - [Mastering Easy File Operations with ChatGPT's Expert Assistance](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/cli-commands/simple-file-operations.md)
     - [Afraid of Framework Migration? It's easy with ChatGPT!](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/cli-commands/framework-migration.md)
 
+- Troubleshooting / Code Explanation and Research
+     - [Cracking the Code: Journey into the Unknown Framework Lifecycle with ChatGPT](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/troubleshooting-code-explanation-and-research/unknown-framework-lifecycle-explanation.md)
+
 - Testing
     - [Optimizing E2E Testing with ChatGPT](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/testing/optimizing-e2e-testing-with-chatgpt.md) 
+    - [Creating Unit Tests using ChatGPT's Visual Studio Code Extension Assistance](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/testing/unit-tests-with-chatgpt.md) 
+- Interview
+    - [Level Up Your JavaScript Skills for Technical Interviews with ChatGPT](https://github.com/EPAM-JS-Competency-center/ai-cookbook/blob/main/cookbook/interviews/js-ti-preparation.md) 
